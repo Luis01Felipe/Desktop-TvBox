@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desktop_TvBox", "Desktop_TvBox.csproj", "{275C8400-32F5-4627-87B4-EE0B05E4156C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{275C8400-32F5-4627-87B4-EE0B05E4156C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275C8400-32F5-4627-87B4-EE0B05E4156C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275C8400-32F5-4627-87B4-EE0B05E4156C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275C8400-32F5-4627-87B4-EE0B05E4156C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
